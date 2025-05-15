@@ -1,4 +1,3 @@
-\
 # Climate Finance Bench - Retrieval‑Augmented QA over Corporate Climate Disclosures
 
 **Climate Finance Bench** is an open benchmark and reference implementation for answering analyst‑style questions about corporate sustainability reports with *retrieval‑augmented generation* (RAG).  
